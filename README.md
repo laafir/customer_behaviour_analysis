@@ -5,6 +5,8 @@ Customer Shopping Behavior Analysis
 This repository contains my first data analytics project, focused on analyzing customer shopping behavior to extract meaningful business insights. The project demonstrates an end-to-end workflow using Python for data cleaning & feature engineering and SQL (MySQL) for analysis.
 
 
+![image alt](https://github.com/laafir/customer_behaviour_analysis/blob/fdad16311bae1577942a1013a599038c62bd03a5/Screenshot%202026-01-18%20092303.png)
+
 ---
 
 📂 Dataset
